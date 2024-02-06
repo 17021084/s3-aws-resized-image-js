@@ -15,3 +15,6 @@ npm install --os=darwin --cpu=arm64 sharp
 Resize method: https://sharp.pixelplumbing.com/api-resize#resize
 
 
+#### AWS command line
+
+https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/s3/command/GetObjectCommand/
